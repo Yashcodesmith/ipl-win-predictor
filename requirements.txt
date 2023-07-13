@@ -1,0 +1,5 @@
+streamlit
+bs4
+pandas
+scikit-learn
+numpy
